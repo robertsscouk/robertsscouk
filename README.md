@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robertsscouk
+- 👋 Hi, I’m @robertssean
 - 👀 I’m interested in implementing machine learning in healthcare. 
 - 🌱 I’m currently learning how to build predictive models in machine learning to predict health outcomes. 
 - 💞️ I’m looking to collaborate on various data science projects. 
